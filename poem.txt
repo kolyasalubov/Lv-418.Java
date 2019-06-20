@@ -11,4 +11,5 @@
 11.Yatsyuk Yaroslav
 12.MykytaSavchuk
 13.AlinaFrolova
-14.Andrii Shyian
+14.Sasha Kondrat
+15.Andrii Shyian
