@@ -1,14 +1,8 @@
 1.Of many reasons I love you here is one
 2.
-<<<<<<< HEAD
-3.
-4.so you can tell me there is a bird
-5.
-=======
 3.so I can tell you everything will be alright
-4.
+4.so you can tell me there is a bird
 5.trapped in the terminal      all the people
->>>>>>> f13d76064fb1690889185b387fdecc40ff078a80
 6.
 7.what to do with it except to leave it alone
 8.until it scares itself to death it makes you terribly terribly sad
