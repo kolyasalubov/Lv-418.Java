@@ -7,12 +7,8 @@
 7.what to do with it except to leave it alone
 8.You wish you could take the bird outside
 9.All you can do is notice the bird
-<<<<<<< HEAD
-10.
-=======
-10.All you can do is notice the bird
->>>>>>> Kondrat
-11.
+10.I'm on line 10 Yatsyuk Yaroslav
+11.All you can do is notice the bird
 12.
 13.
 14.
